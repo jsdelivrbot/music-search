@@ -1,25 +1,25 @@
 # Search Music Web Application built with React-Redux
 
-Simple Music Web App using Spotify API to find favorite artists, albums and tracks.
+Simple Music Web Application using Spotify API to find favorite artists, albums and tracks.
 
 ## Getting Started
 
-You can have access to my project by both ways: 
+You can have access to my project: 
 
 - by git clone
 - or just download
 
 ### Prerequisites
 
--You need to have node.js installed.
+- You need to have node.js installed.
 
 ### Installing
 
-- Run command line and in root folder type npm install
+- Run command line and in root folder type 'npm install'
 
 ### Run server
 
-- In command line type npm start to start server localy
+- In command line type 'npm start' to start server locally
 
 - Default: localhost:8080
 
