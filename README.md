@@ -25,7 +25,7 @@ You can have access to my project by both ways:
 
 ## Author
 
-* **Krzysztof (Kris) Muszynski**
+* **Krzysztof Muszynski**
 
 ## License
 
