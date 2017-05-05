@@ -1,25 +1,39 @@
-# ReduxSimpleStarter
+# Search Music Web Application built with React-Redux
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Simple Music Web App using Spotify API to find favorite artists, albums and tracks.
 
-### Getting Started
+## Getting Started
 
-There are two methods for getting started with this repo.
+You can have access to my project by both ways: 
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+- by git clone
+- or just download
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+### Prerequisites
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+You need to have node.js installed.
 
-```
-> npm install
-> npm start
-```
+### Installing
+
+1. Run node
+2. Command line in root folder to install all dependencies: npm install
+
+### Run server
+
+In command line write npm start to start server
+
+Default port: localhost:8080
+
+## Author
+
+* **Krzysztof (Kris) Muszynski**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration Spotify Demo by JMPerez
+* Thanks for React-Redux Boilerplate by Stephen Grider

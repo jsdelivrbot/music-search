@@ -1,0 +1,19 @@
+import React from 'react';
+import AudioPlayer from './audio_player';
+
+const TrackList = (props) => {
+	return (
+		<li className="list-group-item" key={props.key}>
+			{props.title}
+			<AudioPlayer 
+				urlSrc={props.audioSrc}
+				playing={props.playing} 
+				controls={props.controls}
+				height={props.height}
+				width={props.width}
+			/>
+		</li>
+	);
+};
+
+export default TrackList;

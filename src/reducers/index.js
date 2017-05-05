@@ -1,7 +1,8 @@
 import { combineReducers } from 'redux';
+import AlbumsReducer from './reducer_albums';
 
 const rootReducer = combineReducers({
-  state: (state = {}) => state
+  artist: AlbumsReducer
 });
 
 export default rootReducer;
