@@ -11,18 +11,17 @@ You can have access to my project by both ways:
 
 ### Prerequisites
 
-You need to have node.js installed.
+-You need to have node.js installed.
 
 ### Installing
 
-1. Run node
-2. Command line in root folder to install all dependencies: npm install
+- Run command line and in root folder type npm install
 
 ### Run server
 
-In command line write npm start to start server
+- In command line type npm start to start server localy
 
-Default port: localhost:8080
+- Default: localhost:8080
 
 ## Author
 
