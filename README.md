@@ -1,4 +1,4 @@
-# Search Music Web Application built with React-Redux
+# Music Search Web Application built with React-Redux
 
 Simple Music Web Application using Spotify API to find favorite artists, albums and tracks.
 
