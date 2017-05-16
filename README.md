@@ -30,7 +30,6 @@ You can have access to my project:
 ### Run server
 
 - In command line type 'npm start' to start server locally
->>>>>>> 4480fd570b69d17d7f4a86376fcf43c2350d9d8a
 
 - Default: localhost:8080
 
