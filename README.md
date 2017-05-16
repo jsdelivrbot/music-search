@@ -11,7 +11,6 @@ You can have access to my project:
 
 ### Prerequisites
 
-<<<<<<< HEAD
 -You need to have node.js installed.
 
 ### Installing
