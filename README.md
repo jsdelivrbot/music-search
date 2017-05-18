@@ -20,7 +20,6 @@ You can have access to my project:
 ### Run server
 
 - In command line type npm start to start server localy
-=======
 - You need to have node.js installed.
 
 ### Installing
@@ -43,6 +42,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
 * Inspiration Spotify Demo by JMPerez
 * Thanks for React-Redux Boilerplate by Stephen Grider
